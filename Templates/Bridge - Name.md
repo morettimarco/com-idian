@@ -6,7 +6,7 @@ creation: <% tp.file.creation_date("YYYY-MM-DD") %>
 duration:
 ---
 <%*
-const fileName = await tp.system.prompt("Name your joke","",false,false)
+const fileName = await tp.system.prompt("Name your Bridge","",false,false)
 let cleanFileName = fileName.replace(/[^a-zA-Z0-9 ]/g, '')
 let fileCreated = false;
 let counter = "";
