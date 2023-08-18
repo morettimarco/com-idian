@@ -149,8 +149,8 @@
     },
     {
       "modifiers": [
-        "Alt",
-        "Ctrl"
+        "Ctrl",
+        "Shift"
       ],
       "key": "ArrowDown"
     }
