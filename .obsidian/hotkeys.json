@@ -51,6 +51,13 @@
         "Mod"
       ],
       "key": "J"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "J"
     }
   ],
   "quickadd:choice:19020901-5e34-4b24-a36c-d8979583470f": [
@@ -58,6 +65,13 @@
       "modifiers": [
         "Alt",
         "Mod"
+      ],
+      "key": "I"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
       ],
       "key": "I"
     }
@@ -69,6 +83,13 @@
         "Mod"
       ],
       "key": "C"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "C"
     }
   ],
   "quickadd:choice:7782c1fa-ccdd-409f-af90-7b793b8a7cf6": [
@@ -76,6 +97,13 @@
       "modifiers": [
         "Alt",
         "Mod"
+      ],
+      "key": "B"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
       ],
       "key": "B"
     }
@@ -87,6 +115,13 @@
         "Mod"
       ],
       "key": "S"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "S"
     }
   ],
   "quickadd:choice:5f5fb027-d6aa-47f9-8516-9fc1087a97ff": [
@@ -94,6 +129,13 @@
       "modifiers": [
         "Alt",
         "Mod"
+      ],
+      "key": "L"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
       ],
       "key": "L"
     }
