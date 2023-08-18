@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:Material",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Material/Intro",
+      "color": {
+        "a": 1,
+        "rgb": 1431853
+      }
+    },
+    {
+      "query": "path:Material/Jokes",
+      "color": {
+        "a": 1,
+        "rgb": 371199
+      }
+    },
+    {
+      "query": "path:Material/Bridges",
+      "color": {
+        "a": 1,
+        "rgb": 12569125
+      }
+    },
+    {
+      "query": "path:Material/Closer",
+      "color": {
+        "a": 1,
+        "rgb": 12981780
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 0,
+  "linkDistance": 250,
+  "scale": 1.0205164117235674,
+  "close": true
+}

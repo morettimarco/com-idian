@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "b8d4e577e38711f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "034c21dd48920c01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d089db4037bc77c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e14a4df26c4db1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fafda058a70f1d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e08b0f23bfe55247",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1d6e79dceeb39a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "McDonald's",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59ec9edea2ae9503",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "d7ea1661b77bfce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "32c60232e63e1488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d3d6753d1ce3d72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "037a11b1165d5fee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1d239d8c8f1e50c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "493a74cce89fe9b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 592.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "3d089db4037bc77c",
+  "lastOpenFiles": [
+    "Material/Closer/Closer - Fuck you bitch.md",
+    "Material/Closer/Closer - Folow JC go.md",
+    "Material/Closer",
+    "Material/Jokes/Joke - Cocaine for dessert.md",
+    "Material/Jokes/Joke - I have a speech impediment.md",
+    "Material/Jokes/Joke - True environmentalists Musk.md",
+    "Material/Jokes/Joke - Tinder bio singles cooking.md",
+    "Material/Jokes/Joke - Would you like to have sex.md",
+    "Material/Jokes/Joke - Dating the riddler.md",
+    "Material/Jokes/Joke -Batman is an asshole.md",
+    "Material/Jokes/Joke - Drugs are watersports.md",
+    "Material/Jokes/Joke - What I do to fight global warming.md",
+    "Material/Jokes/Joke - Stacy's mom.md",
+    "Material/Jokes/Joke - Tinder on toilet.md",
+    "Material/Jokes/Joke - Love is imaginary.md",
+    "Material/Jokes/Joke - True environmentalists McDonalds.md",
+    "Material/Jokes/Joke - Don't click on images.md",
+    "Material/Jokes/Joke - White guy's worst day.md",
+    "Material/Jokes/Joke - You're not supposed to be alive.md",
+    "Material/Jokes/Joke - Star wars is a pro-choice.md",
+    "Material/Jokes/Joke - Django.md",
+    "Material/Jokes/Joke - 6 months of sadness and masturbation.md",
+    "Material/Jokes/Joke - Anti abortionist gynaecologist.md",
+    "Material/Jokes/Joke - People never shut the fuck up.md",
+    "Material/Jokes/Joke - Who really hates immigration.md",
+    "Material/Jokes/Joke - Catholicism is micromanagement.md",
+    "Material/Jokes/Joke - Stop making jokes during meetings.md",
+    "Material/Jokes",
+    "Material/Intro",
+    "Material/Bridges",
+    "Material",
+    "Templates",
+    "Set Lists",
+    "Dashboard",
+    "Excalidraw",
+    "Templates/Scripts/fileMover.js",
+    "Untitled.canvas"
+  ]
+}

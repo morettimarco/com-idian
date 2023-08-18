@@ -1,0 +1,145 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "{{value}} - {{date}}",
+      "templates": [
+        "Templates/Set List.md",
+        "Templates/Set List - Sequential.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Set Lists",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "date"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2d3de764-1603-441e-9cb5-f25fa25c892c",
+          "name": "Shows Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "0766f61a-f863-440b-9914-0eb6a9ee03be",
+      "name": "Shows"
+    },
+    {
+      "fieldConfig": {
+        "rating": {
+          "options": [
+            "0/5",
+            "1/5",
+            "2/5",
+            "3/5",
+            "4/5",
+            "5/5"
+          ]
+        },
+        "status": {
+          "options": [
+            "To Do",
+            "New",
+            "Done"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "Templates/Joke - Name.md",
+        "Templates/Intro - Name.md",
+        "Templates/Closer - Name.md",
+        "Templates/Bridge - Name.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Material",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "includeFields": [],
+            "columns": {
+              "To Do": {
+                "weight": 0
+              },
+              "New": {
+                "weight": 1
+              },
+              "Done": {
+                "weight": 2
+              }
+            },
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "bcc00138-baf2-410c-94d9-8e50809777e5",
+          "name": "Jokes",
+          "type": "board"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 387
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d29da977-9580-4b77-8ded-3195bbb17191",
+          "name": "Jokes List",
+          "type": "table"
+        }
+      ],
+      "id": "665e1c63-29b7-4c57-b755-7b87825410e7",
+      "name": "Jokes"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

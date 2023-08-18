@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Set Lists",
+      "template": "Templates/Set List.md"
+    },
+    {
+      "folder": "Jokes/Bridges",
+      "template": "Templates/Bridge - Name.md"
+    },
+    {
+      "folder": "Jokes/Closer",
+      "template": "Templates/Closer - Name.md"
+    },
+    {
+      "folder": "Jokes/Intro",
+      "template": "Templates/Intro - Name.md"
+    },
+    {
+      "folder": "Material/Jokes",
+      "template": "Templates/Joke - Name.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Templates/Joke - Name.md",
+    "Templates/Bridge - Name.md",
+    "Templates/Intro - Name.md",
+    "Templates/Closer - Name.md",
+    "Templates/Set List - Sequential.md",
+    "Templates/Set List.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

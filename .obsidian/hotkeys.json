@@ -1,0 +1,101 @@
+{
+  "quickadd:choice:932d16d3-915d-42a1-bc4f-5f10ae07af25": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "quickadd:choice:68c9f687-ea11-48db-8b46-09aa13ec3121": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "quickadd:choice:8335cb86-8f6a-4956-a9fd-b068dc97d272": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "quickadd:choice:1d2cca21-5117-4587-99f0-0b0e50e4b7f9": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "quickadd:choice:610aba62-bd3d-401e-b798-2f8a69d3393b": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "quickadd:choice:312a361a-6340-4d3d-a96a-786b32406d51": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "quickadd:choice:19020901-5e34-4b24-a36c-d8979583470f": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "quickadd:choice:3107bf24-905e-4564-978f-b2cad76c1588": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "quickadd:choice:7782c1fa-ccdd-409f-af90-7b793b8a7cf6": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "quickadd:choice:2fd65581-2aeb-4efc-b8cc-0f6c5fc9611d": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "quickadd:choice:5f5fb027-d6aa-47f9-8516-9fc1087a97ff": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ]
+}

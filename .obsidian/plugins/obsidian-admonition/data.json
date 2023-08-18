@@ -1,0 +1,77 @@
+{
+  "userAdmonitions": {
+    "joke": {
+      "type": "joke",
+      "color": "0, 170, 255",
+      "icon": {
+        "name": "microphone",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Joke",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "Intro": {
+      "type": "Intro",
+      "color": "23, 217, 45",
+      "icon": {
+        "name": "door-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Intro",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "Closer": {
+      "type": "Closer",
+      "color": "198, 21, 21",
+      "icon": {
+        "name": "door-closed",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Closer",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "Bridge": {
+      "type": "Bridge",
+      "color": "204, 215, 40",
+      "icon": {
+        "name": "link",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Bridge",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "10.0.1",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.b289f4"
+}

@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "Templates/",
+    "Dashboard/"
+  ]
+}

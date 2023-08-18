@@ -1,0 +1,90 @@
+{
+  "presetFields": [
+    {
+      "name": "type",
+      "options": {
+        "valuesList": {
+          "1": "Joke",
+          "2": "Bridge",
+          "3": "Intro",
+          "4": "Closer"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "1",
+      "type": "Select"
+    },
+    {
+      "name": "status",
+      "options": {
+        "valuesList": {
+          "1": "To Do",
+          "2": "New",
+          "3": "Done"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "2",
+      "type": "Select"
+    },
+    {
+      "name": "ranking",
+      "options": {
+        "valuesList": {
+          "1": "0/5",
+          "2": "1/5",
+          "3": "2/5",
+          "4": "3/5",
+          "5": "4/5",
+          "6": "5/5"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "3",
+      "type": "Cycle"
+    },
+    {
+      "name": "duration",
+      "options": {
+        "step": "1",
+        "min": "0",
+        "max": "10"
+      },
+      "id": "4",
+      "type": "Number"
+    },
+    {
+      "name": "date",
+      "options": {
+        "dateFormat": "DD-MM-YYYY",
+        "defaultInsertAsLink": "false"
+      },
+      "id": "5",
+      "type": "Date"
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": null,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": 3,
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "buttonIcon": "clipboard-list",
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asArray"
+}
