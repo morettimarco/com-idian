@@ -7,6 +7,14 @@ duration:
 ---
 <%*
 const fileName = await tp.system.prompt("Name your Joke","",false,false)
+if (fileName === null)
+{
+	const filePath = tp.file.path(true);
+	new Notice("Delete "+filePath);
+	await app.vault.trash(app.vault.getAbstractFileByPath(filePath),true);
+	return;
+}
+
 let cleanFileName = fileName.replace(/[^a-zA-Z0-9 ]/g, '')
 let fileCreated = false;
 let counter = "";

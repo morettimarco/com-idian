@@ -11,8 +11,12 @@
             "id": "3d089db4037bc77c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Set List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "McDonald's",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Set List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Set List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Set List.md"
+              }
             }
           }
         ],
@@ -146,6 +154,12 @@
   },
   "active": "3d089db4037bc77c",
   "lastOpenFiles": [
+    "Templates/Set List - Sequential.md",
+    "Templates/Set List.md",
+    "Templates/Joke - Name.md",
+    "Templates/Intro - Name.md",
+    "Templates/Closer - Name.md",
+    "Templates/Bridge - Name.md",
     "Material/Closer/Closer - Fuck you bitch.md",
     "Material/Closer/Closer - Folow JC go.md",
     "Material/Closer",
@@ -167,12 +181,6 @@
     "Material/Jokes/Joke - You're not supposed to be alive.md",
     "Material/Jokes/Joke - Star wars is a pro-choice.md",
     "Material/Jokes/Joke - Django.md",
-    "Material/Jokes/Joke - 6 months of sadness and masturbation.md",
-    "Material/Jokes/Joke - Anti abortionist gynaecologist.md",
-    "Material/Jokes/Joke - People never shut the fuck up.md",
-    "Material/Jokes/Joke - Who really hates immigration.md",
-    "Material/Jokes/Joke - Catholicism is micromanagement.md",
-    "Material/Jokes/Joke - Stop making jokes during meetings.md",
     "Material/Jokes",
     "Material/Intro",
     "Material/Bridges",
