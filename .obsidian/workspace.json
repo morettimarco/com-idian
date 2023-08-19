@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e37d4aabd491cf",
+        "id": "2e80907890b76c74",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc6e54c747a5f9e",
+            "id": "5e724a1f96c47721",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -144,7 +144,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4fc6e54c747a5f9e",
+  "active": "5e724a1f96c47721",
   "lastOpenFiles": [
     "Templates/Bridge - Name.md",
     "Templates/Closer - Name.md",

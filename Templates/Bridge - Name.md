@@ -63,4 +63,4 @@ while (selectMore) {
 }
 
 tR += selectedTags.join(" ") 
-%>#<% tp.file.cursor(2) %>
+%> #<% tp.file.cursor(2) %>
