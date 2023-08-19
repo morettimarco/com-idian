@@ -4,7 +4,7 @@ const venueName = await tp.system.prompt("Where are you performing?", "", false,
 // Store the file creation date in a variable
 const fileCreationDate = tp.file.creation_date("YYYY-MM-DD");
 // Sanitize the venue name by removing special characters
-let cleanVenueName = venueName.replace(/[^a-zA-Z0-9 ]/g, '');
+let cleanVenueName = venueName==null ? "NoVenue" :venueName.replace(/[^a-zA-Z0-9 ]/g, '');
 // Initialize a flag to track if the file has been successfully created
 let fileCreated = false;
 // Initialize a counter to append to the filename if necessary
