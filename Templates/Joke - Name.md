@@ -43,9 +43,9 @@ where type = "Joke" or type = "Bridge" or type = "Intro" or type = "Closer"
 ```
 
 ### Follow ups
-- <% tp.file.cursor(2) %>
+- <% tp.file.cursor(3) %>
 
-<%*
+Tags: <%*
 const dv = app.plugins.plugins.dataview.api
 let allTags = Object.entries(app.metadataCache.getTags() )
    .sort( (a, b) => a[0].localeCompare(b[0]) ) // Sorted alphabetically
@@ -64,4 +64,4 @@ while (selectMore) {
 }
 
 tR += selectedTags.join(" ") 
-%>
+%> #<% tp.file.cursor(2) %>

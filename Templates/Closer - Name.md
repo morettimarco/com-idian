@@ -42,7 +42,7 @@ and !outgoing([[]])
 ```
 
 
-<%*
+Tags: <%*
 const dv = app.plugins.plugins.dataview.api
 let allTags = Object.entries(app.metadataCache.getTags() )
    .sort( (a, b) => a[0].localeCompare(b[0]) ) // Sorted alphabetically
@@ -61,4 +61,4 @@ while (selectMore) {
 }
 
 tR += selectedTags.join(" ") 
-%>
+%> #<% tp.file.cursor(2) %>

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Set List.md",
+                "file": "Templates/Bridge - Name.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Set List.md",
+                "file": "Templates/Bridge - Name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Set List.md",
+                "file": "Templates/Bridge - Name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Set List.md"
+                "file": "Templates/Bridge - Name.md"
               }
             }
           }
@@ -154,12 +154,12 @@
   },
   "active": "3d089db4037bc77c",
   "lastOpenFiles": [
-    "Templates/Set List - Sequential.md",
-    "Templates/Set List.md",
-    "Templates/Joke - Name.md",
-    "Templates/Intro - Name.md",
     "Templates/Closer - Name.md",
+    "Templates/Intro - Name.md",
+    "Templates/Joke - Name.md",
     "Templates/Bridge - Name.md",
+    "Templates/Set List.md",
+    "Templates/Set List - Sequential.md",
     "Material/Closer/Closer - Fuck you bitch.md",
     "Material/Closer/Closer - Folow JC go.md",
     "Material/Closer",
