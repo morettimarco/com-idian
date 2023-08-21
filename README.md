@@ -13,7 +13,7 @@
 Shortcuts
 
 |Name|Shortcut for  Mac|Shortcut for ⊞ Win|
-|----|----|----|
+|----|:--:|:--:|
 |Add new Joke | ⌥+⌘+I |Ctrl+Shift⇧+I |
 |Add new Bridge | ⌥+⌘+J |Ctrl+Shift⇧+J |
 |Add new Intro | ⌥+⌘+B |Ctrl+Shift⇧+B |
@@ -21,7 +21,6 @@ Shortcuts
 |Add new Set List | ⌥+⌘+L |Ctrl+Shift⇧+L |
 |Add new Sequential Set List | ⌥+⌘+S |Ctrl+Shift⇧+S |
 |Next placeholder | ⌥+Tab ⇆ |Ctrl+Shift⇧+Down↓ |
-
 
 
 ## Theory
